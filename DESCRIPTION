@@ -1,0 +1,21 @@
+Package: toscmask
+Title: Improved versions of base functions
+Version: 1.1.1
+Authors@R:
+    person(given = "Tobias",
+           family = "Schmidt",
+           role = c("aut", "cre"),
+           email = "tobias2.schmidt@ukr.de")
+Description: Operators and functions provided by base R sometimes lack some
+features found in other programming languages, such as the abilitiy to
+concatenate strings using + or to repeat string using *. This package aims
+at providing such functionality without breaking existing code, i.e., only
+statements, that would throw errors in pure base R are patched.
+License: file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
