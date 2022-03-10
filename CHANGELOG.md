@@ -19,6 +19,10 @@ The format is loosely based on [Keep a Changelog](https://keepachangelog.com/en/
     e.g. .github/workflows/*, README.md, etc. Infrastructure updates increase
     the patch version.
 
+## [1.2.3] - 2022-03-010
+
+- `Infrastructure`: Changed author email in DESCRIPTION to tobias.schmidt331@gmail.com
+
 ## [1.2.2] - 2022-03-010
 
 - `Infrastructure`: Fixed typo in DESCRIPTION and README.md
