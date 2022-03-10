@@ -5,7 +5,7 @@
 # toscmask
 
 Operators and functions provided by base R sometimes lack some
-features found in other programming languages, such as the abilitiy to
+features found in other programming languages, such as the ability to
 concatenate strings using + or to repeat strings using *. This package aims
 at providing such functionality without breaking existing code, i.e., only
 statements, that would throw errors in pure base R are patched.
