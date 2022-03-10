@@ -1,7 +1,3 @@
----
-output: md_document
----
-
 <!-- badges: start -->
 [![R build status](https://github.com/toscm/toscmask/workflows/R-CMD-check/badge.svg)](https://github.com/toscm/toscmask/actions)
 <!-- badges: end -->

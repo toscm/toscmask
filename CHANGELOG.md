@@ -19,6 +19,16 @@ The format is loosely based on [Keep a Changelog](https://keepachangelog.com/en/
     e.g. .github/workflows/*, README.md, etc. Infrastructure updates increase
     the patch version.
 
+## [1.2.0] - 2022-03-010
+
+- `Changed`: `+` now also handles combinations of characters and numerics
+- `Changed`: Improved documentation of `+` and `*`
+- `Infrastructure`: Changed DESCRIPTION
+- `Infrastructure`: Changed License
+- `Infrastructure`: Changed .Rbuildignore
+- `Infrastructure`: Changed .gitignore
+- `Infrastructure`: Added cran-comments.md
+
 ## [1.1.1] - 2022-03-09
 
 - `Infrastructure`: Pushed to Github.

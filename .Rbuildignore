@@ -1,5 +1,12 @@
-^toscutil\.Rproj$
-^\.Rproj\.user$
+^.*\.Rproj\.*$
+^.*\.tar\.gz$
+^\.git$
+^\.github$
+^CHANGELOG.md$
+^check$
+^cran-comments.md$
+^CRAN-SUBMISSION$
 ^LICENSE\.md$
-^README\.r?md$
-^LICENSE\.md$
+^README.md$
+^revdep$
+^submit_to_cran.R$
