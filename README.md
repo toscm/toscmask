@@ -1,5 +1,6 @@
 <!-- badges: start -->
 [![R build status](https://github.com/toscm/toscmask/workflows/R-CMD-check/badge.svg)](https://github.com/toscm/toscmask/actions)
+[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/toscmask)](https://cran.r-project.org/package=toscmask)
 <!-- badges: end -->
 
 # toscmask
